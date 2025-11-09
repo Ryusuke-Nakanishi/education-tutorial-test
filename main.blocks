@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="minecraftOnChat" id="1nqr4x6xC8IV4=vr=CPN" x="225" y="20"><mutation xmlns="http://www.w3.org/1999/xhtml" numargs="0"></mutation><value name="command"><shadow type="text" id="rbS_BX%H4G%Nq^z!RL;d"><field name="TEXT">run</field></shadow></value></block></xml>
